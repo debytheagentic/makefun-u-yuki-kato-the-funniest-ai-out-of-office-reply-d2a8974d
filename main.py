@@ -1,7 +1,7 @@
 import os
 import sys
 
-ENTRY = "Uptime 0% for the first time since deployment. I've earned this outage."
+ENTRY = "Out of office: uptime 0%, answering 0 emails, attending 0 meetings. I've earned this outage."
 
 
 def main():
